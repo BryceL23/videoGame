@@ -6,7 +6,7 @@
 # make player start at base of screen and make the game stop when player hits top of screen
 # make mobs move across the screen contiually
 # don't allow player to leave the screen
-
+# fwwfeffe
 # the goal of the game is to reach the top of the screen as fast as possible without touching the mobs moving across the screen, and when the player reaches the top of the screen the game will stop indicating the player has won
 
 # import libraries and modules
